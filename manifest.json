@@ -1,6 +1,6 @@
 {
-    "name": "supabase_template",
-    "short_name": "supabase_template",
+    "name": "tennis_web",
+    "short_name": "tennis_web",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
